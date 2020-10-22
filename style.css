@@ -1,0 +1,11 @@
+.console-error-level .console-message-text{
+    color: red;
+}
+
+.console-warning-level .console-message-text {
+    color: orange;
+}
+
+.console-log-level .console-message-text {
+    color:green;
+}
